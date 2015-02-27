@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # electrolyte
 
 ##When your team has pushed some changes to the github master branch:
@@ -22,3 +23,7 @@
 
 
 
+=======
+# Electro
+Hellow world
+>>>>>>> b7a2c95d6291e204031fadaf1acb57e76095731f
